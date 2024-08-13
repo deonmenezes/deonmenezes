@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Deon Menezes</h1>
-
+<p align="center">
+  <a href="https://deonmenezes.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20Website-blue?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Website">
+  </a>
+</p>
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/4/4c/Digital_rain_banner.gif)](https://deonmenezes.io)
 
 <h3 align="center">A passionate Web developer and VR Developer from India</h3>
@@ -16,11 +20,7 @@
 
 - ⚡ Fun fact **I drink Coffee more than Water**
 
-<p align="center">
-  <a href="https://deonmenezes.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20Website-blue?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Website">
-  </a>
-</p>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
