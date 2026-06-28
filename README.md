@@ -1,21 +1,21 @@
 <h1 align="center">Hi 👋, I'm Deon Menezes</h1>
 <p align="center">
-  <a href="https://deonmenezes.vercel.app" target="_blank">
+  <a href="https://deonmenezes.com" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20Website-blue?style=for-the-badge&logo=web&logoColor=white" alt="Portfolio Website">
   </a>
 </p>
 
-<h3 align="center">A passionate Web developer and VR Developer from India</h3>
+<h3 align="center">AI Harness Engineer · Founder of Virelity · 15+ Hackathon Wins</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deonmenezes&label=Profile%20views&color=0e75b6&style=flat" alt="deonmenezes" /> </p>
 
-- 🔭 I’m currently working on **Team Vision** an organization which specializes in advanced AR/VR development.
+- 🔭 I’m building **Mantishack** — an AI harness that hunts vulnerabilities & ships patches autonomously (344★).
 
-- 🌱 I’m currently learning **Nextjs**
+- 🤖 I build **agentic AI harnesses** that figure out what you want — and ship the work.
 
-- 💬 Ask me about **MERN, VR, Unreal Engine**
+- 💬 Ask me about **Agentic Harnesses, AI Security, LLMs, MCP, MERN & XR**
 
-- 📫 How to reach me **deonmenezescodes@gmail.com**
+- 📫 How to reach me **deonmenezescodes@gmail.com** · 🌐 **deonmenezes.com**
 
 - ⚡ Fun fact **I drink Coffee more than Water**
 
